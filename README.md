@@ -1,12 +1,23 @@
 # Cloud_Native_Uber
 
 ## User Stories
-    1. çŸ¥é“æœ€è¿‘çš„è»Šéœ€è¦å¤šä¹…æŠµé”ï¼Ÿ
-    2. æƒ³è¦æŸå°è»Šåœ¨æŒ‡å®šæ™‚é–“å‰åˆ°é”æŸåœ°æŽ¥å®¢äºº
-    3. è»Šå­æŠµé”çš„æ™‚å€™ä¸çŸ¥é“æ˜¯å“ªå°ï¼Ÿ
-    4. é§•é§›ä¸æƒ³è¦å®¢äººå¼„é«’è»Šå­
+    1. ¨­¬°¤@­Ó­¼«È¡A§Ú·Qª¾¹D§¤¨ì¥Øªº¦a¤j¬ù»Ý­n¦h¤[¥H¤Î¤j¬ù¦h¤Ö¿ú¡A¥H«K§Ú¦ôºâªá¶O»ù®æ¥H¤Î®É¶¡
+    2. ¨­¬°¤@­Ó­¼«È¡A§Ú·Q­n¦b¦³¯S®í»Ý¨D(6¤H®y¡BµL»ÙÃª³]¬I¡B¨àµ£¦w¥þ®y´Èµ¥µ¥)®É¯à°÷´£¨Ñ¸ÓªA°È¡A¥H«K¯à°÷²Å¦Xªk³W©Î¬O¦b·f¨®®É¯à§ó²Å¦X¦Û¤vªº­n¨D
+    3. ¨­¬°¤@­Ó­¼«È¡A§Ú·Q­nª¾¹D¥s¨®«á¤j¬ù¦h¤[·|¨ì¡AÁÙ·Qª¾¹D¨®¤lªº¥~Æ[¡B¨®µP¡B¾r¾pµ¥¸ê°T¡A¥H¤è«K§Ú¯à°÷¦b§Ö¨ìªº®É­Ô¦b²¾°Ê¡A¥H¤Î¤è«K´M§ä§Ú¥sªº¨®¡AÁÙ¦³«O»Ù§Úªº¦w¥þ
+    4. ¨­¬°¤@­Ó­¼«È¡A§Ú·Q­n¦b»P¾r¾p¦³ªÈ¯É®É¡A¯à°÷Ápµ¸¥­¥x¶i¦æ¡A¥H«K¸Ñ¨MÂù¤èªº°ÝÃD
+    5. ¨­¬°¤@­Ó­¼«È¡A§Ú·Q­n¦³¦h¤¸ªº¥I´Ú¤è¦¡¡A¥H«K¯à°÷¦]¬°¬Y¨Ç­ì¦](¨­¤W²{ª÷¤£°÷)¡A¦Ó§ï¥Î¨ä¥L¤è¦¡¶i¦æ¤ä¥I
+    6. ¨­¬°¤@­Ó¾r¾p¡A§Ú·Q­nª¾¹D­¼«Èªº¥Øªº¦a¦b­þ¡A¥H«K§Ú¦ôºâ®É¶¡¡AÁ×§Kªo¶q¤£¨¬©Î¬O®Èµ{¤Óªø¾É­P¨­Åé¹L©ó¯h³Ò®É¥i¥H¤Î®É©Úµ´
+    7. ¨­¬°¤@­Ó¾r¾p¡A§Ú·Q­nª¾¹D¸ü§¹³o§å­¼«È«á¡A¥i¥H§Ö³tª¾¹D¤U¤@§å­¼«È­n¦b­þ¸Ì¤W¨®¡A¥H«K¨M©w¬O§_­n±µ³æ¡A¥H«K¦b®É¶¡¤W¯à°÷§ó¬yºZ¡A¤£·|¦³¤ÓªøªºªÅµ¡´Á
+    8. ¨­¬°Uber¶}µoªÌ¡A§Ú·Q­n¤è«Kª¾¹D¸Ó¦¸­¼¨®¥H¤Î·f¨®ªº¸gÅç¡A¥H«K¯à°÷§ïµ½¨Ï¥ÎªÌÅéÅç¡A¼W¥[«È¤á¨Ï¥Îªº·NÄ@
+    9. ¨­¬°Uber¶}µoªÌ¡A§Ú·Q­nª¾¹D­þ¨Ç«È¸sor¾r¾p¸û±`¨Ï¥Î¥»¥­¥x¡A¥H«K¯à°÷³z¹L¦æ¾Pµ¦²¤¡Aµ¹¤©Àu´f¡A¼W¥[«È¤á¨Ï¥ÎªºÀW²v
 ## Acceptance Criteria
-    1. ä»‹é¢ä¸Šä¸€å€‹æ¡†æ¡†é¡¯ç¤ºæœ€è¿‘çš„è»Šè·é›¢æ­¤åœ°çš„åˆ†é˜æ•¸
-    2. å«è»Šæ™‚æœ‰ä¸€å€‹é ç´„æ™‚é–“å¯ä»¥é¸æ“‡
-    3. å«è»Šå®Œå¾Œï¼Œæœƒé¡¯ç¤ºæœ¬æ¬¡è»Šçš„é¡è‰²ã€è»Šç‰Œå’Œå» ç‰Œ
-    4. å¯ä»¥åœ¨å®¢äººå«è»Šæ™‚é¡¯ç¤ºæ–‡å­—æé†’å®¢äººä¸è¦å˜”ååœ¨è»Šä¸Šæˆ–æ˜¯è»Šä¸Šç¦æ­¢é£²é£ŸåŠæŠ½è¸
+    1. µ¹¤©¤@­Ó¹w¬ù¥s¨®¤¶­±¡A·í­¼«È¿ï¾Ü¥Xµo»P¥Øªº¦a¤§«á¡AµM«áÅã¥Ü¹w­pªá¶O®É¶¡¥H¤Î»ù®æ
+    2. µ¹¤©¤@­Ó¹w¬ù¥s¨®¤¶­±¡A·í­¼«È³]©w§¹¥Xµo»P¥Øªº¦a¤§«á«ö¤U¦h¤¸¥s¨®«ö¶s«á¡AµM«á¥i¥H¿ï¾Ü»Ý¨D(6¤H®y¡BµL»ÙÃª³]¬I¡B¨àµ£¦w¥þ®y´Èµ¥µ¥)¥h¶i¦æ¥s¨®
+    3. µ¹¤©¤@­Ó¹w¬ù¥s¨®¤¶­±¡A·í­¼«È³]©w§¹¥Xµo»P¥Øªº¦a¤§«á«ö¤U¥s¨®«ö¶s«á¡A·|¸õÂà¨ìµ¥«Ý­¼¨®¤¶­±¡AµM«á·|¦³¤@­ÓÄæ¦ì±MªùÅã¥Ü¨®¤lªº¥~Æ[¡B¨®µP¡B¾r¾p¸ê°T¥H¤Î¹w­p©è¹F­¼¨®³Bªº®É¶¡
+    4. µ¹¤©¤@­Ó­¼¨®¤¶­±¡A·í­¼«È·f­¼®É©Î¬O¾r¾p³~¤¤µo¥Í¥ô¦óªÈ¯É»P°ÝÃD®É«ö¤UÁpµ¸«ÈªA«ö¶s¡A·|¸õÂà¨ì«ÈªA¦^³ø¤¶­±¡AµM«á·|¦³±M¤H»P§ë¶DªÌ¶i¦æÁpÃ´
+    5. µ¹¤©¤@­Ó¹w¬ù¥s¨®¤¶­±¡A·í­¼«È¿ï¾Ü¥Xµo»P¥Øªº¦a¤§«á¡AµM«á·|¦³¥i¥H¿ï¾Ü¥I´Ú¤è¦¡ªº¿ï¾ÜÄæ¥i¥H¶i¦æ¿ï¾Ü
+    6. µ¹¤©¤@­Ó­¼¨®¤¶­±¡A·í¬°¾r¾p¨Ã¥Ø«e¨S¸ü«Èªº®É­Ô¡A¸Ó­¼¨®¤¶­±¥i¥H¦¬¨ì­¼«Èªº°_ÂI»P¥Øªº¦a¡AµM«áÅã¥Ü¶ZÂ÷»P¹w¦ô¾r¾pªº®É¶¡
+    7. µ¹¤©¤@­Ó­¼¨®¤¶­±¡A·í¸ü§¹¸Ó§å­¼«Èªº®É­Ô¡A­¼¨®¤¶­±·|¦C¥Xµ¥«Ý·f­¼ªº­¼«È²M³æ¡AµM«á¿ï¾Ü­n±µªº«È¤á¶i¦æ±µ³æ
+    8. µ¹¤©¤@­Ó¦^õX¤¶­±¡A·í§¹¦¨¸Ó¦¸·f­¼»P¸ü°e®É¡AµM«á·|Åã¥Üµ¹¤©µû½×ªº¿é¤JÄæ¶i¦æ¦^õX
+    9. µ¹¤©¤@­Ó·|­ûµn¤J¤¶­±¡A·í§¹¦¨µn¤J®É¡AµM«á·|¬ö¿ý­¼«È¥H¤Î¾r¾pªº·f­¼¤Î¸ü«Èªº¬ö¿ý 
+       µ¹¤©¤@­Ó·|­ûµù¥U¤¶­±¡A·í·|­û¨S¦³¿ì±b¸¹®É¡AµM«áµ¹¤©¶ñ¼g¸ê°T¶i¦æµù¥U
